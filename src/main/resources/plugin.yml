@@ -1,0 +1,4 @@
+name: AdminPlugins
+version: '${project.version}'
+main: org.itson.untitled.AdminPlugins
+api-version: 1.19
